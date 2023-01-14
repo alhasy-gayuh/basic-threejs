@@ -1,0 +1,10 @@
+{
+  "name": "basic-three",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "js/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.148.0"
+  }
+}
